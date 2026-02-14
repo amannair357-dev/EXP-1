@@ -58,10 +58,12 @@ Calculation:
 
 a.   KVL:
  
+<img width="1377" height="1370" alt="image" src="https://github.com/user-attachments/assets/d25b7ddf-13c7-4f59-aa4f-40158834946b" />
 
 
 b.  KCL:
 
+<img width="1282" height="1480" alt="image" src="https://github.com/user-attachments/assets/67b7f682-5922-48c7-93c8-9dad8e1126ca" />
 
 
 
@@ -69,10 +71,12 @@ Tabulation:
 
 a.   KVL:
  
+<img width="1600" height="574" alt="image" src="https://github.com/user-attachments/assets/bf57f684-ae45-43c9-85eb-47113ff9f2eb" />
 
 
 b.  KCL:
 
+<img width="1600" height="589" alt="image" src="https://github.com/user-attachments/assets/7073cb7d-14d1-4652-8d92-5fc3d1983115" />
 
 
 RESULT:
